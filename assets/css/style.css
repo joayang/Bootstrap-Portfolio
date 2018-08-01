@@ -1,0 +1,39 @@
+
+
+/* footer */
+
+footer {
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:white;
+  padding: 0;
+  clear: both;
+  font-size: 12px;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+  height: 30px;
+}
+
+.heading {
+  background-color: #aeb4a3;
+  text-align: center;
+  margin: 0px 10px 30px 10px;
+  padding-bottom: 30px;
+  background: #4aaaa0;
+}
+
+.portrait {
+  height: 130px;
+  margin-left: 100px;
+}
+.logo {
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  font-size: 25px;
+  color:whitesmoke;
+  background-color:rgb(48, 93, 110);
+}
